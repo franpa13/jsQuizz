@@ -72,7 +72,7 @@ export default function Game() {
     const goNextQuestion = useQuestionsStore(state => state.goNextQuestion)
     const goPreviewQuestion = useQuestionsStore(state => state.goPreviousQuestion)
     const questionInfo = questions[currentQuestion]
-
+   let nadaquever = "awdadwadw"
 
 
     return (
